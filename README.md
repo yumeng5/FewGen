@@ -1,6 +1,6 @@
 # FewGen
 
-The source code for [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2202.04538).
+The source code for [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2211.03044).
 
 
 ## Overview
